@@ -1,4 +1,6 @@
-<img src="https://www.rd.com/wp-content/uploads/2020/11/GettyImages-889552354-e1606774439626.jpg">
+<img src="https://www.rd.com/wp-content/uploads/2020/11/GettyImages-889552354-e1606774439626.jpg"
+  width="300"
+  height="300>
 
 <h2> Hey there! I'm David.</h2>
 
