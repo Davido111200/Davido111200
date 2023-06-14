@@ -1,4 +1,4 @@
-<img src="https://www.rd.com/wp-content/uploads/2020/11/GettyImages-889552354-e1606774439626.jpg"
+<center><img src="https://www.rd.com/wp-content/uploads/2020/11/GettyImages-889552354-e1606774439626.jpg"
   width="300"
   height="300" />
 
