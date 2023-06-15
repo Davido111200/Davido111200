@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.rd.com/wp-content/uploads/2020/11/GettyImages-889552354-e1606774439626.jpg" width="300" height="300"></center>
+  <img src="https://www.rd.com/wp-content/uploads/2020/11/GettyImages-889552354-e1606774439626.jpg" width="350" height="350"></center>
 </p>
 
 <h2> Hey there! I'm David.</h2>
