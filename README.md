@@ -38,8 +38,8 @@
 <br/>
 
 <a href="https://github.com/Davido111200">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davido111200&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davido111200&theme=buefy&layout=compact" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davido111200&theme=buefy&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davido111200&theme=buefy&layout=compact" />
 </a>
 
 <br/>
