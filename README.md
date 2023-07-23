@@ -13,9 +13,10 @@
 - 🎓 &nbsp; Currently a PhD student at Applied Artificial Intelligence Institute (A2I2), Australlia
 - 🌱 &nbsp; Willing to collaborate with other researchers interested in (but not limited to) Reinforcement Learning and Natural Language Processing
 
-<h3> UPDATES </h3>
+<h3> 🤓 UPDATES </h3>
 
-- [Jul 23]: 1 paper accepted at IEEE Transactions on Vehicular Technology
+- [Jul 23]: 1 paper accepted at IEEE Transactions on Vehicular Technology 
+<a href="https://ieeexplore.ieee.org/document/10174680" target="_blank"></a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
