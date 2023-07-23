@@ -15,7 +15,7 @@
 
 <h3> 🤓 UPDATES </h3>
 
-- [Jul 23]: 1 paper accepted at IEEE Transactions on Vehicular Technology <a href="https://ieeexplore.ieee.org/document/10174680" target="_blank"></a>
+- [Jul 23]: 1 paper accepted at IEEE Transactions on Vehicular Technology [DOI](https://ieeexplore.ieee.org/document/10174680)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
