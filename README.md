@@ -11,7 +11,6 @@
 
 - 🤔 &nbsp; Exploring ways to integrate Reinforcement Learning to Language Models to serve humans.
 - 🎓 &nbsp; Currently a PhD student at Applied Artificial Intelligence Institute (A2I2), Australlia
-- 🌱 &nbsp; Willing to collaborate with other researchers interested in (but not limited to) Reinforcement Learning and Natural Language Processing
 
 <h3> 🤓 UPDATES </h3>
 
