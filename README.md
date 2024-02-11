@@ -1,9 +1,4 @@
-<p align="center">
-  <div class="caption">
-    <img src="https://scontent.fcbr1-1.fna.fbcdn.net/v/t1.15752-9/373080806_1661404644371424_7891117992209818946_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=aUDswiJdXvEAX9ey0EX&_nc_ht=scontent.fcbr1-1.fna&oh=03_AdRHzjZO60z3mI1lbx-uZDwnVU7Y2WEMqm-YnECLXSGfqA&oe=6578D611" width="300" height="500" alt="Image" />
-    <p>Pevid!(my dog)</p>
-  </div>
-</p>
+
   
 <h2> Van Dai DO (David) </h2>
 
