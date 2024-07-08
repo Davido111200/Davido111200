@@ -9,6 +9,7 @@
 
 <h3> 🤓 UPDATES </h3>
 
+- [Jul 24]: 1 paper accepted at European Conference on Artificial Intelligence (ECAI)
 - [Jul 23]: 1 paper accepted at IEEE Transactions on Vehicular Technology - [paper](https://ieeexplore.ieee.org/document/10174680)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
