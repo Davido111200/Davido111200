@@ -9,7 +9,7 @@
 
 <h3> 🤓 UPDATES </h3>
 
-- [Jul 24]: 1 paper accepted at European Conference on Artificial Intelligence [ECAI](https://www.ecai2024.eu)
+- [Jul 24]: 1 paper accepted at European Conference on Artificial Intelligence - [ECAI 2024](https://www.ecai2024.eu)
 - [Feb 24]: Our team (led by Dr. Hung Le) will deliver a tutorial at [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz) - Tutorial document can be seen [here](https://thaihungle.github.io/publications/files/AAMAS2024_Tutorial.pdf) 
 - [Jul 23]: 1 paper accepted at IEEE Transactions on Vehicular Technology - [paper](https://ieeexplore.ieee.org/document/10174680)
 
