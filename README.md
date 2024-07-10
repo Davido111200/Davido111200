@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring ways to integrate Reinforcement Learning to Language Models to serve humans.
 - 🎓 &nbsp; Currently a PhD student at Applied Artificial Intelligence Institute (A2I2), Australlia
-- 🌐 &nbsp; I am always open for collaboration. Please contact me via [LinkedIn](https://www.linkedin.com/in/vandaido/) or [Gmail](davido111200@gmail.com)
+- 🌐 &nbsp; I am always open for collaboration. Please contact me via [LinkedIn](https://www.linkedin.com/in/vandaido/)
 
 <h3> 🤓 UPDATES </h3>
 
