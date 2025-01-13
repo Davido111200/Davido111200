@@ -53,6 +53,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/do-van-dai-b28b5b133/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DoVanDai-blue"></a>
+<a href="https://www.linkedin.com/in/vandaido/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DoVanDai-blue"></a>
 <a href="mailto:davido111200@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davido111200%40gmail.com-red"></a>
 </p>
