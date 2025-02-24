@@ -1,6 +1,6 @@
 
   
-<h2> Van Dai DO </h2>
+<h2> Van Dai Do </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
