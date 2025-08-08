@@ -10,7 +10,7 @@
 
 <h3> 🤓 UPDATES </h3>
 
-- [May 25]: 1 paper accepted at Association for Computational Linguistics (core rank A*) Findings track - [ACL 2025](https://2025.aclweb.org)
+- [May 25]: 1 paper accepted at Association for Computational Linguistics (core rank A*) - [ACL 2025](https://2025.aclweb.org)
 - [Jul 24]: 1 paper accepted at European Conference on Artificial Intelligence (core rank A) - [ECAI 2024](https://www.ecai2024.eu)
 - [Feb 24]: Our team (led by Dr. Hung Le) will deliver a tutorial at [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz) - Tutorial document can be seen [here](https://thaihungle.github.io/publications/files/AAMAS2024_Tutorial.pdf)
 - [Aug 23]: I am starting my PhD journey at Applied Artificial Intelligence Institute, Deakin University, Australia! I am working on using Reinforcement Learning to enhance Large Language Models performances
