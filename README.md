@@ -11,6 +11,7 @@
 <h3> 🤓 UPDATES </h3>
 
 - [Updating]: I will attend [EMNLP 2025](https://2025.emnlp.org) hosted in Suzhou, China from November 5th to November 9th, 2025. Let's connect and share opportunities!
+- [Aug 25]: 1 paper accepted at International Conference on Data Mining (core rank A*) - [ICDM 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html)
 - [Aug 25]: 1 paper accepted at Empirical Methods in Natural Language Processing (core rank A*) - [EMNLP 2025](https://2025.emnlp.org)
 - [May 25]: 1 paper accepted at Association for Computational Linguistics (core rank A*) - [ACL 2025](https://2025.aclweb.org)
 - [Jul 24]: 1 paper accepted at European Conference on Artificial Intelligence (core rank A) - [ECAI 2024](https://www.ecai2024.eu)
