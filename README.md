@@ -10,6 +10,8 @@
 
 <h3> 🤓 UPDATES </h3>
 
+- [May 26]: 1 paper accepted at ICML (core rank A*) - [ICML 2026](https://icml.cc)
+- [Apr 26]: 1 paper accepted at ACL (core rank A*) - [ACL 2026](https://2026.aclweb.org)
 - [Mar 26]: I attended [Kingston Group's AI Symposium 2026](https://kingstonaigroup.org.au) hosted in Adelaide, Australia by AIML Institute, Adelaide University. What a great opportunity to connect with Australian researchers!
 - [Nov 25]: I attended [EMNLP 2025](https://2025.emnlp.org) hosted in Suzhou, China from November 5th to November 9th, 2025. Let's connect and share opportunities!
 - [Oct 25]: 1 paper accepted at Transactions on Machine Learning Research with Journal to Conference (J2C) Certification! - [TMLR](https://jmlr.org/tmlr/)
