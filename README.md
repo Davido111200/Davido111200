@@ -10,6 +10,7 @@
 
 <h3> 🤓 UPDATES </h3>
 
+- [Sep 26]: Siuuu. 1 paper accepted at NeurIPS [paper](https://openreview.net/forum?id=DRNgEw9MBD#discussion), and another at TMLR
 - [May 26]: 1 paper accepted at ICML (core rank A*) - [ICML 2026](https://icml.cc)
 - [Apr 26]: 1 paper accepted at ACL (core rank A*) - [ACL 2026](https://2026.aclweb.org)
 - [Mar 26]: I attended [Kingston Group's AI Symposium 2026](https://kingstonaigroup.org.au) hosted in Adelaide, Australia by AIML Institute, Adelaide University. What a great opportunity to connect with Australian researchers!
