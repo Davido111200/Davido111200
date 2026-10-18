@@ -25,10 +25,6 @@
 - [Aug 23]: I am starting my PhD journey at Applied Artificial Intelligence Initiative, Deakin University, Australia! I am working on using Reinforcement Learning to enhance Large Language Models performances
 - [Jul 23]: 1 paper accepted at IEEE Transactions on Vehicular Technology - [paper](https://ieeexplore.ieee.org/document/10174680)
 
-<a href="https://github.com/Davido111200">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davido111200&theme=buefy&show_icons=true" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davido111200&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
