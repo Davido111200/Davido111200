@@ -14,6 +14,7 @@
 - [May 26]: 1 paper accepted at ICML (core rank A*) - [ICML 2026](https://icml.cc)
 - [Apr 26]: 1 paper accepted at ACL (core rank A*) - [ACL 2026](https://2026.aclweb.org)
 - [Mar 26]: I attended [Kingston Group's AI Symposium 2026](https://kingstonaigroup.org.au) hosted in Adelaide, Australia by AIML Institute, Adelaide University. What a great opportunity to connect with Australian researchers!
+- [Jan 26]: I completed my PhD at A2I2 after 2 years and 6 months! What a journey it has been. A huge thank you to my wonderful supervisors: Dr. Hung Le and Professor Svetha Venkatesh. To my co-authors: Thank you for assisting me in my research journey!
 - [Nov 25]: I attended [EMNLP 2025](https://2025.emnlp.org) hosted in Suzhou, China from November 5th to November 9th, 2025. Let's connect and share opportunities!
 - [Oct 25]: 1 paper accepted at Transactions on Machine Learning Research with Journal to Conference (J2C) Certification! - [TMLR](https://jmlr.org/tmlr/)
 - [Sep 25]: 1 paper accepted at International Conference on Data Mining (core rank A*) - [ICDM 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html)
