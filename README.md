@@ -4,9 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring ways to integrate Reinforcement Learning to Language Models to serve humans.
 - 🎓 &nbsp; Currently a Associate Research Fellow at Applied Artificial Intelligence Initiative (A2I2), Australlia
-- 🌐 &nbsp; I am open for collaboration on LLMs (Post-training methods, Alignment Learning & Steering), Time Series (Foundational models). Please contact me via [LinkedIn](https://www.linkedin.com/in/vandaido/)
+- 🌐 &nbsp; I am open for collaboration on LLMs (Post-training methods, Alignment Learning & Steering), Time Series (Foundational models & Editing methods). Dont hesitate to ping me on [LinkedIn](https://www.linkedin.com/in/vandaido/)
 
 <h3> 🤓 UPDATES </h3>
 
